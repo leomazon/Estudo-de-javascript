@@ -8,7 +8,7 @@ console.log(frutas[0]);
 console.log(frutas[1]);
 
 // Adicionar um elemento
-frutas[4] = "melancia";
+frutas[4] = "melanciaa";
 
 // Alterar um elemento
 frutas[1] = "limão";
